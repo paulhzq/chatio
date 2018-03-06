@@ -4,6 +4,6 @@
   "private": true,
   "dependencies": {
     "express": "~4.15.5",
-    "socket-io": "*"
+    "socket.io": "^2.0.4"
   }
 }
